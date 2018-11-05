@@ -1,7 +1,9 @@
 127.0.0.1	localhost
-127.0.1.1	jeenbek-System-Product-Name
-127.0.0.2	dev.nginx.irokez
-127.0.0.3	dev.apache.irokez
+# Set up one or more domains locally
+127.0.0.2	dev.nginx.com
+127.0.0.3	dev.nginx.net
+# Can set up with public IP
+213.23.56.2 www.nginx-website.org
 
 # The following lines are desirable for IPv6 capable hosts
 ::1     ip6-localhost ip6-loopback
