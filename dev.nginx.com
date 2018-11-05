@@ -1,3 +1,7 @@
+# FILE LOCATION: /etc/nginx/sites-available/dev.nginx.com
+# Make sure to create a symlink of this file 
+# in /etc/nginx/sites-enabled/ in order for it to work properly with NGINX
+
 server {
   # Modify if you want it to listen on different port
   # By default it always listens on port 80
