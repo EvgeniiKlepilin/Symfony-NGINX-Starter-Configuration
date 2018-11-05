@@ -6,11 +6,11 @@ Some of the code shown in here is taken from [Official Symfony Website](https://
 
 # Prerequisites
 In order to start we have to make sure we have following installed:
-* NGINX
-* PHP
-* PHP-FPM
-* Composer
-* Symfony
+* [NGINX](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/)
+* [PHP](http://www.php.net/)
+* [PHP-FPM](https://php-fpm.org/)
+* [Composer](https://getcomposer.org/)
+* [Symfony Framework](https://symfony.com/)
 
 # Installation
 Here is the description of a set up:
